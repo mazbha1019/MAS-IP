@@ -1,3 +1,4 @@
+#!/bin/bash
 # Encrypted by (M.A.S)
 # Github- https://github.com/mazbha1019
 # Note: Please Don't Edite this tool without my permission.
