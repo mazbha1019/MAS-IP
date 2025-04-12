@@ -1,10 +1,21 @@
 # MAS-IP
-Hello, this is (M.A.S) Here.
-This tool auto change your phone ip address in 5 Second.
-this tool only for Termux
 
-# How to Install
-Open Termux and Type:
+MAS-IP is a auto ip Changer tool you can use this in termux.
 
-pkg install git -y
-git clone 
+## Installation
+
+
+```bash
+pkg install git -y && git clone https://github.com/mazbha1019/MAS-IP.git && cd MAS-IP && bash install.sh
+```
+
+## Usage
+
+Just Type : masip
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
