@@ -53,6 +53,10 @@ How to use this:
 
 Done!
 
+## Video see
+
+https://github.com/user-attachments/assets/2c1171a0-72cb-4ba3-9821-340df905098c
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
