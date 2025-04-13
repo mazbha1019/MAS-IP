@@ -16,6 +16,9 @@ Just Type :
 masip
 ```
 
+How to use this:
+[https://youtu.be/iEzSrq2vw2o?si=eeWvtHr9vPNxqlIW](url)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
