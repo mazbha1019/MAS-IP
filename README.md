@@ -1,6 +1,6 @@
 # MAS-IP
 
-![Image](https://github.com/user-attachments/assets/83269f85-2003-47e9-8361-943d489bc611)
+![Image](https://github.com/user-attachments/assets/3f19a705-992d-4a7d-b33f-d0e5d1cea8c3)
 
 MAS-IP is a auto ip Changer tool you can use this in termux. Only use WIFI OR Mobile Hotspot. set Proxy 127.0.0.1 Port: 8118.
 
